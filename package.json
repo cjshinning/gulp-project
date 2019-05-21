@@ -1,0 +1,27 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "a gulp demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/gulp-project.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "chenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/gulp-project/issues"
+  },
+  "homepage": "https://github.com/cjshinning/gulp-project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.1.0"
+  }
+}
