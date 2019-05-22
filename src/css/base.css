@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a:hover,a:active{
+    text-decoration: underline;
+}
+body{
+    color: #f00;
+}
+.icons{
+    overflow: auto;
+}
+.icons li{
+    width: 24px;
+    height: 24px;
+    /* float: left;
+    margin-right: 10px; */
+}
+.icons li.ic1{
+    background: url(../images/icon/icon1.png) no-repeat;
+}
+.icons li.ic2{
+    background: url(../images/icon/icon1.png) no-repeat;
+}
+.icons li.ic3{
+    background: url(../images/icon/icon1.png) no-repeat;
+}
